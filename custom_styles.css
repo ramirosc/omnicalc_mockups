@@ -13,3 +13,4 @@
   background-color: CornflowerBlue;
 }
 
+.dl-horizontal dt{white-space: normal;word-wrap:break-word;}
